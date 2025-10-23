@@ -1,21 +1,65 @@
-<<<<<<< HEAD
-# React + Vite
+🩵 NotePulse – A Mini Notes App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A vibrant and intuitive React + Tailwind CSS notes app where users can add, edit, delete, and search notes — all stored locally in the browser. Keep your ideas alive with the pulse of creativity ⚡
 
-Currently, two official plugins are available:
+🧠 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+📝 Add, edit, and delete notes
 
-## React Compiler
+🔍 Search notes by title or description
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+💾 Notes saved automatically in localStorage
 
-## Expanding the ESLint configuration
+🎨 Clean and responsive Tailwind UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# NotePulse-A-mini-notes-app
-A vibrant and intuitive notes app built with React and Tailwind CSS — keep your ideas alive with the pulse of creativity.
->>>>>>> 9f5ceee59124cffbb9b103dc92ee925a17351dc0
+🌗 (Bonus) Easy to extend with Dark/Light mode
+
+🛠️ Tech Stack
+
+React.js
+
+Tailwind CSS
+
+LocalStorage API
+
+⚙️ How to Run Locally
+
+Follow these simple steps:
+
+# 1️⃣ Clone the repository
+git clone https://github.com/muskan-fatima97/NotePulse-A-mini-notes-app.git
+
+# 2️⃣ Move into the project directory
+cd NotePulse-A-mini-notes-app
+
+# 3️⃣ Install dependencies
+npm install
+
+# 4️⃣ Start the development server
+npm run dev
+
+
+Then open 👉 http://localhost:5173
+ in your browser (Vite default port).
+
+📁 Project Structure
+NotePulse/
+├── src/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+├── package.json
+├── tailwind.config.js
+└── README.md
+
+🧾 Evaluation Areas (as per task)
+
+✅ Code structure and clarity
+
+✅ Clean and responsive UI/UX
+
+✅ Problem-solving and maintainable code
+
+✅ Local storage for persistence
+
+💡 Bonus: Ready for deployment
