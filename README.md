@@ -18,7 +18,7 @@ React.js
 
 Tailwind CSS
 
-LocalStorage API
+LocalStorage
 
 ⚙️ How to Run Locally
 
