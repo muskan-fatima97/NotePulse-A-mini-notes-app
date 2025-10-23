@@ -1,4 +1,4 @@
-🩵 NotePulse – A Mini Notes App
+NotePulse – A Mini Notes App
 
 A vibrant and intuitive React + Tailwind CSS notes app where users can add, edit, delete, and search notes — all stored locally in the browser. Keep your ideas alive with the pulse of creativity ⚡
 
@@ -45,11 +45,17 @@ Then open 👉 http://localhost:5173
 📁 Project Structure
 NotePulse/
 ├── src/
+
 │   ├── App.jsx
+
 │   ├── main.jsx
+
 │   └── index.css
+
 ├── package.json
+
 ├── tailwind.config.js
+
 └── README.md
 
 🧾 Evaluation Areas (as per task)
