@@ -6,6 +6,7 @@ function App() {
   const [search, setSearch] = useState("");
   const [editingNote, setEditingNote] = useState(null);
   const [form, setForm] = useState({ title: "", description: "" });
+
   // Load notes from localStorage
   useEffect(() => {
     const saved = JSON.parse(localStorage.getItem("notes")) || [];
@@ -45,7 +46,7 @@ function App() {
 
       <div className="relative z-10 p-6 text-gray-900">
         <h1 className="text-5xl font-bold text-center text-white mb-10">
-          Minicopia
+          NotePulse
         </h1>
 
         <div className="flex flex-col lg:flex-row gap-8 max-w-6xl mx-auto items-start w-full">
