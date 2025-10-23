@@ -4,15 +4,13 @@ A vibrant and intuitive React + Tailwind CSS notes app where users can add, edit
 
 🧠 Features
 
-📝 Add, edit, and delete notes
+📝 Add, Edit, and Delete notes
 
 🔍 Search notes by title or description
 
 💾 Notes saved automatically in localStorage
 
 🎨 Clean and responsive Tailwind UI
-
-🌗 (Bonus) Easy to extend with Dark/Light mode
 
 🛠️ Tech Stack
 
