@@ -20,6 +20,9 @@ Tailwind CSS
 
 LocalStorage
 
+🚀 Live Demo
+https://note-pulse-a-mini-notes-app.vercel.app/
+
 ⚙️ How to Run Locally
 
 Follow these simple steps:
